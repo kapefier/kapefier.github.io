@@ -5,10 +5,9 @@
 # Linee Guida per una Terapia Intensiva
 ---
 
-a cura dei colleghi della TI
+Orlando Sagliocco
 
-
-ASST Bergamo Est 
+---
 
 * [HFNC nell'insufficienza respiratoria acuta (Markdown)](hfncemo.md)
 
