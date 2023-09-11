@@ -40,8 +40,7 @@ Le raccomandazioni sono state proposte in seguito ad una revisione sistematica d
 ---
 ## ERS clinical practice guidelines: high-flow nasal cannula in acute  respiratory failure.
 
-**Eur Respir J 2022**
-<div style="text-align: right"> **Eur Respir J 2022** </div>
+<div style="text-align: right"> <b>Eur Respir J 2022</b> </div>
 
 ---
 
