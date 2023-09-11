@@ -38,10 +38,10 @@ pratica clinica:
 Le raccomandazioni sono state proposte in seguito ad una revisione sistematica della letteratura, alla valutazione del rischio di bias dei singoli studi randomizzati e alla valutazione della certezza dell\'evidenza per ciascun risultato con l'utilizzo della metodologia GRADE[2](#ftn1), in un contesto di discreta incertezza.
 
 ---
+
 ## ERS clinical practice guidelines: high-flow nasal cannula in acute  respiratory failure.
 
 
-**Eur Respir J 2022**
 <div style="text-align: right"> <b>Eur Respir J 2022</b></div>
 
 ---

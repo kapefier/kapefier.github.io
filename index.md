@@ -1,9 +1,12 @@
 
 
+---
 
+# Linee Guida per una Terapia Intensiva
+---
 
-## Linee Guida per una Terapia Intensiva
 a cura dei colleghi della TI
+
 
 ASST Bergamo Est 
 
@@ -13,4 +16,4 @@ ASST Bergamo Est
 * [HFNC nell'insufficienza respiratoria acuta (Markdown)](hfncemo.md)
 
 
-* [Beta-bloccanti nel paziente critico](betablokkirev23.xhtml)
+* [Beta-bloccanti nel paziente critico](betabloccanti.md)
