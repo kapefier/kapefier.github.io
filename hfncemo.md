@@ -1,6 +1,4 @@
 
-
- 
 ---
 # HFNC nell'insufficienza respiratoria acuta
 
@@ -9,13 +7,13 @@ nell'insufficienza respiratoria acuta dell'adulto, tratte da recenti
 linee guida di pratica clinica della European Society of Intensive Care
 Medicine (ESICM) e della European Respiratory Society (ERS).
 
-Dr. O. Sagliocco
+<div style="text-align: right"> Dr. O. Sagliocco </div>
 ---
- 
 
 ## The role for high flow nasal cannula as a respiratory support strategy in adults: a clinical practice guideline.
+---
 
-**Intensive Care Med** 46, 2226--2237 (**2020**).
+<div style="text-align: right"> **Intensive Care Med** 46, 2226--2237 (**2020**) </div>
 ---
 
 Il panel di clinici e metodologi dell'ESICM fornisce quattro raccomandazioni -- di cui una gradata *"strong recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
@@ -40,7 +38,7 @@ Le raccomandazioni sono state proposte in seguito ad una revisione sistematica d
 ## ERS clinical practice guidelines: high-flow nasal cannula in acute  respiratory failure.
 
 **Eur Respir J 2022**
-
+<div style="text-align: right"> **Eur Respir J 2022** </div>
 
 ---
 
@@ -101,8 +99,7 @@ solo il termine "suggerisce".
 
 #### HFNC nell'insufficienza respiratoria acuta ipossiemica
 
-##### 1 - Suggeriamo l\'uso di HFNC rispetto a COT negli adulti con
-insufficienza respiratoria acuta ipossiemica (evidenza moderata).
+##### 1 - Suggeriamo l\'uso di HFNC rispetto a COT negli adulti con insufficienza respiratoria acuta ipossiemica (evidenza moderata).
 
 In questa domanda è stata affrontata l'AHRF de novo, piuttosto che
 l'ARDS già diagnosticata, poiché non vi è ancora consenso sulla
@@ -158,7 +155,7 @@ prona da sveglio nell'HFNC, riconoscendo che ci sono poche prove e pochi
 studi randomizzati per affrontare la questione.
 
 ##### 2 - Suggeriamo l\'uso della HFNC rispetto alla NIV nei pazienti con
-insufficienza respiratoria acuta ipossiemica  (evidenza molto bassa).
+insufficienza respiratoria acuta ipossiemica (evidenza molto bassa).
 
 HFNC e NIV sono utilizzati più frequentemente nei pazienti con AHRF
 progressiva o da moderata a grave (PaO2/FiO2 ⩽200 mmHg), quando i rischi
