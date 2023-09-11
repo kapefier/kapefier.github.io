@@ -42,7 +42,7 @@ pratica clinica:  
 
  
 
-::: {#Immagine1 dir="ltr" style="float: left; width: 6.14in; height: 2.38in; border: none; padding: 0in; background: #ffffff"}
+:::
 ![](hfnc6_html_2ff85d6400f52915.jpg){width="590" height="229"}
 :::
 
@@ -56,14 +56,14 @@ GRADE[2](#ftn1), in un contesto di discreta incertezza.
 
  
 
- 
+
 ---
-ERS clinical practice guidelines: high-flow nasal cannula in acute
+## ERS clinical practice guidelines: high-flow nasal cannula in acute
 respiratory failure.
 
 **[Eur Respir J 2022]
 
- 
+
 ---
 
 ### []{#a__Background}Background {#background .p36}
