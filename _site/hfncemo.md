@@ -13,67 +13,45 @@ Dr. O. Sagliocco
 ---
  
 
-## The role for high flow nasal cannula as a respiratory support strategy
-
- in adults: a clinical practice guideline.
+## The role for high flow nasal cannula as a respiratory support strategy in adults: a clinical practice guideline.
 
 **Intensive Care Med** 46, 2226--2237 (**2020**).
+---
 
- 
+Il panel di clinici e metodologi dell'ESICM fornisce quattro raccomandazioni -- di cui una gradata *"strong recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
+pratica clinica: 
 
-[]{#body_ftn2}Il panel di clinici e metodologi dell'ESICM fornisce
-quattro raccomandazioni -- di cui una gradata "*strong
-recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
-pratica clinica:  
+-   una raccomandazione [forte]{.underline} a favore di l\'**HFNC** nell\'**insufficienza
+    respiratoria ipossiemica** (certezza moderata);
 
--   una[ raccomandazione]{style="text-decoration: none"}
-    [forte]{.underline} a favore di l\'**HFNC** nell\'**insufficienza
-    respiratoria ipossiemica** (certezza moderata); 
+-   una raccomandazione [condizionale]{.underline} per l\'**HFNC dopo  l\'estubazione** (certezza moderata);
 
--   una raccomandazione [condizionale]{.underline} per l\'**HFNC dopo
-    l\'estubazione** (certezza moderata); 
+-   nessuna raccomandazione riguardante l\'HFNC nel periodo peri-intubazione (certezza moderata):
 
--   nessuna raccomandazione riguardante l\'HFNC nel periodo
-    peri-intubazione (certezza moderata): 
+-   una raccomandazione [condizionale]{.underline} per l\'**HFNC nel**  **postoperatorio in pazienti ad alto rischio e/o obesi dopo chirurgia cardiaca o toracica** (certezza moderata).
 
--   una raccomandazione [condizionale]{.underline} per l\'**HFNC nel**
-    **postoperatorio in pazienti ad alto rischio e/o obesi dopo
-    chirurgia cardiaca o toracica** (certezza moderata). 
 
- 
 
-:::
-![](hfnc6_html_2ff85d6400f52915.jpg){width="590" height="229"}
-:::
+![](hfnc6_html_2ff85d6400f52915.jpg)
 
- 
-
-[]{#body_ftn1}Le raccomandazioni sono state proposte in seguito ad una
-revisione sistematica della letteratura, alla valutazione del rischio di
-bias dei singoli studi randomizzati e alla valutazione della certezza
-dell\'evidenza per ciascun risultato con l'utilizzo della metodologia
-GRADE[2](#ftn1), in un contesto di discreta incertezza.
-
- 
-
+Le raccomandazioni sono state proposte in seguito ad una revisione sistematica della letteratura, alla valutazione del rischio di bias dei singoli studi randomizzati e alla valutazione della certezza dell\'evidenza per ciascun risultato con l'utilizzo della metodologia GRADE[2](#ftn1), in un contesto di discreta incertezza.
 
 ---
-## ERS clinical practice guidelines: high-flow nasal cannula in acute
-respiratory failure.
+## ERS clinical practice guidelines: high-flow nasal cannula in acute  respiratory failure.
 
-**[Eur Respir J 2022]
+**Eur Respir J 2022**
 
 
 ---
 
-### []{#a__Background}Background {#background .p36}
+### Background
 
 La cannula nasale ad alto flusso (HFNC) è diventata una forma non
 invasiva di supporto respiratorio frequentemente utilizzata in contesti
 acuti; tuttavia, le p*rove* a sostegno del suo utilizzo sono emerse solo
 di recente.
 
-[]{#body_ftn3}Vengono fornite raccomandazioni basate sull'evidenza per
+Vengono fornite raccomandazioni basate sull'evidenza per
 l'uso dell'HFNC insieme ad altre forme non invasive di supporto
 respiratorio (*NIV --* ventilazione non invasiva, *COT* --
 ossigenoterapia convenzionale) negli adulti con insufficienza
@@ -81,16 +59,14 @@ respiratoria acuta (*ARF* -- acute respiratory failure). Purtroppo, a
 causa di limiti nella certezza delle prove e della differenza nelle
 risorse disponibili, tutte le raccomandazioni sono deboli
 ("*weak/conditional"*). La task force ha sviluppato otto
-*raccomandazioni condizionali[3](#ftn3),* [[[in
-cui]{style="font-weight: normal"}]{style="font-style: normal"}]{style="font-variant: normal"}
-[[il panel conclude che gli effetti desiderabili dell\'adesione a una
+*raccomandazioni condizionali[3](#ftn3),* in
+cuiil panel conclude che gli effetti desiderabili dell\'adesione a una
 raccomandazione
-]{style="font-style: normal"}]{style="font-variant: normal"}[[**probabilmente**]{style="font-style: normal"}]{style="font-variant: normal"}[
-]{style="font-variant: normal"}[[superano gli effetti indesiderati, ma
+**probabilmente** superano gli effetti indesiderati, ma
 non piò esserne
-sicuro.]{style="font-style: normal"}]{style="font-variant: normal"}
+sicuro.
 
-### []{#a__Raccomandazioni}Raccomandazioni {#raccomandazioni .p36}
+### Raccomandazioni
 
 Viene [suggerito]{.underline} l\'uso di:
 
@@ -121,11 +97,11 @@ sono la 1 e la 7, le altre sono gradate "*low"* o "*very low"* (sistema
 GRADE), quindi per nessuna il panel utilizza il termine "raccomanda" ma
 solo il termine "suggerisce".
 
-### []{#a__Dettagli}Dettagli {#dettagli .p36}
+### Dettagli
 
-HFNC nell'insufficienza respiratoria acuta ipossiemica
+#### HFNC nell'insufficienza respiratoria acuta ipossiemica
 
-1 - Suggeriamo l\'uso di HFNC rispetto a COT negli adulti con
+##### 1 - Suggeriamo l\'uso di HFNC rispetto a COT negli adulti con
 insufficienza respiratoria acuta ipossiemica (evidenza moderata).
 
 In questa domanda è stata affrontata l'AHRF de novo, piuttosto che
@@ -181,7 +157,7 @@ Il panel non fornisce raccomandazioni riguardo all'uso della posizione
 prona da sveglio nell'HFNC, riconoscendo che ci sono poche prove e pochi
 studi randomizzati per affrontare la questione.
 
-2 - Suggeriamo l\'uso della HFNC rispetto alla NIV nei pazienti con
+##### 2 - Suggeriamo l\'uso della HFNC rispetto alla NIV nei pazienti con
 insufficienza respiratoria acuta ipossiemica  (evidenza molto bassa).
 
 HFNC e NIV sono utilizzati più frequentemente nei pazienti con AHRF
@@ -213,10 +189,10 @@ sensibilità.
 Esistono differenze pratiche tra HFNC e NIV, che possono influire sul
 comfort e sulla tolleranza del paziente.
 
-[]{#body_ftn4}Il panel ha ritenuto che le prove esistenti generalmente
+Il panel ha ritenuto che le prove esistenti generalmente
 supportino l'uso dell'HFNC rispetto alla NIV come trattamento di prima
-linea per l'AHRF, ma questa **evidenza è limitata** [da imprecisione
-della stima]{style="font-weight: normal"} e vi è ancora **incertezza**
+linea per l'AHRF, ma questa **evidenza è limitata** da imprecisione
+della stima e vi è ancora **incertezza**
 sul vero effetto della NIV. In particolare, lo studio di FRAT et
 al.[4](#ftn4) ha dimostrato il maggior beneficio dell'HFNC, ma la NIV
 aveva un tempo di utilizzo breve (8 h giorno-1) e livelli di PEEP più
@@ -242,11 +218,7 @@ precoce** se non ci sono controindicazioni e un attento monitoraggio da
 parte di un team clinico esperto che può intubare tempestivamente i
 pazienti se peggiorano.
 
-[[3 - Suggeriamo l\'uso di HFNC rispetto a COT durante le pause dalla
-NIV in pazienti con insuffizienza respiratoria acuta
-ipossiemica]{style="font-style: normal"}]{style="font-variant: normal"}[
-]{style="font-variant: normal"}[[(evidenza
-bassa)]{style="font-style: normal"}]{style="font-variant: normal"}*.*
+##### 3 - Suggeriamo l\'uso di HFNC rispetto a COT durante le pause dalla NIV in pazienti con insuffizienza respiratoria acuta ipossiemica
 
 Poiché l'evidenza diretta consisteva in un singolo studio, la task force
 ha considerato l'evidenza indiretta derivante dalla raccomandazione 1.
@@ -260,7 +232,7 @@ Poiché i maggiori benefici sembrano essere legati al **comfort del
 paziente**, piuttosto che alla riduzione della necessità di intubazione,
 è probabile che il rapporto costo-efficacia sia basso.
 
-HFNC nei pazienti postoperatori
+#### HFNC nei pazienti postoperatori
 
 Le complicanze polmonari postoperatorie (PPC) svolgono un ruolo
 significativo nel determinare la morbilità, la mortalità e la durata
@@ -307,7 +279,7 @@ polmonare, l'HFNC può essere un'alternativa efficace insieme a COT e
 NIV/CPAP nei pazienti postoperatori la cui ipossiemia è spesso
 fortemente dipendente dal collasso alveolare.
 
-4 - Suggeriamo l\'uso della COT o dell\'HFNC nei pazienti postoperatori
+##### 4 - Suggeriamo l\'uso della COT o dell\'HFNC nei pazienti postoperatori
 a basso rischio respiratorio complicanze (evidenza bassa).
 
 Poiché le prove non erano chiare riguardo al fatto se il bilancio degli
@@ -326,8 +298,7 @@ considerazioni sulle risorse (ad esempio disponibilità di dispositivi,
 monitoraggio, personale, ossigeno) e preferenze del paziente (ad esempio
 comfort, dispnea, ecc.).
 
-5 - Suggeriamo la HFNC o la NIV nei pazienti postoperatori ad alto
-rischio di complicanze respiratorie (evidenza bassa).
+##### 5 - Suggeriamo la HFNC o la NIV nei pazienti postoperatori ad alto rischio di complicanze respiratorie (evidenza bassa).
 
 Se confrontato con la NIV (⩾4 h·giorno−1, livello di pressione di
 supporto a 8 cmH2O, livello PEEP a 4 cmH2O, FiO2 50%), HFNC (continua,
@@ -353,9 +324,7 @@ nei soggetti obesi.
 HFNC per prevenire il fallimento dell\'estubazione nei pazienti non
 chirurgici
 
-6 - Suggeriamo HFNC rispetto a COT nei pazienti non chirurgici dopo
-estubazione a rischio basso o moderato di fallimento dell' estubazione
-evidenza bassa).
+##### 6 - Suggeriamo HFNC rispetto a COT nei pazienti non chirurgici dopo estubazione a rischio basso o moderato di fallimento dell' estubazione evidenza bassa).
 
 L\'estubazione rimane una sfida in alcuni pazienti (ad esempio in
 presenza di tosse inefficace, deterioramento neurologico, pazienti
@@ -387,10 +356,7 @@ collaterali indesiderati**. Un'analisi costo-efficacia condotta nel
 Regno Unito ha suggerito che l'HFNC è probabilmente economicamente
 vantaggioso anche nei pazienti a basso rischio di reintubazione.
 
-7 - Suggeriamo l\'uso della NIV rispetto alla HFNC dopo l\'estubazione
-per i pazienti ad alto rischio di fallimento dell\'estubazione a meno
-che esistano controindicazioni relative o assolute alla NIV (evidenza
-moderata).
+##### 7 - Suggeriamo l\'uso della NIV rispetto alla HFNC dopo l\'estubazione per i pazienti ad alto rischio di fallimento dell\'estubazione a meno che esistano controindicazioni relative o assolute alla NIV (evidenza moderata).
 
 I pazienti ad alto rischio sono quelli che possono sviluppare ipercapnia
 durante lo **spontanous breathing trial**, quelli con **disturbi
@@ -421,10 +387,9 @@ migliorare ulteriormente l\'ossigenazione e ridurre l\'insufficienza
 respiratoria post-estubazione ottenendo i benefici della NIV, con un
 maggiore comfort dell\'HFNC.
 
-HFNC nell\'insufficienza respiratoria ipercapnica
+#### HFNC nell\'insufficienza respiratoria ipercapnica
 
-8 - Suggeriamo un trial di NIV prima dell\'uso di HFNC in pazienti con
-BPCO e insufficienza respiratoria acuta ipercapnica (evidenza bassa).
+##### 8 - Suggeriamo un trial di NIV prima dell\'uso di HFNC in pazienti con BPCO e insufficienza respiratoria acuta ipercapnica (evidenza bassa).
 
 Nel complesso, l'evidenza di mortalità e intubazione è di bassa
 certezza, principalmente a causa di imprecisione della stima, che non
@@ -452,18 +417,17 @@ tolleranza dei pazienti. La temperatura er impostata a 34°C o 37°C in
 base alle preferenze del paziente, mentre la FiO2 era  regolata per
 raggiungere una SpO2 compresa tra l\'88% e il 92%.
 
- 
-
-[]{#ftn2}[1](#body_ftn2)Una raccomandazione forte è quella per la quale
+ 
+[1](#body_ftn2)Una raccomandazione forte è quella per la quale
 il panel è fiducioso che gli effetti desiderabili dell'adesione ad una
 raccomandazione superino gli effetti indesiderati. Ciò può essere sia a
 favore che contro un intervento.
 
-[]{#ftn1}[2](#body_ftn1)Andrews J, Guyatt G, Oxman AD, et al. GRADE
+[2](#body_ftn1)Andrews J, Guyatt G, Oxman AD, et al. GRADE
 guidelines: 14. Going from evidence to recommendations: the significance
 and presentation of recommendations. J Clin Epidemiol 2013; 66: 719--725
 
-[]{#ftn3}[3](#body_ftn3)Le implicazioni di una **raccomandazione
+[3](#body_ftn3)Le implicazioni di una **raccomandazione
 condizionale**[, secondo il sistema GRADE,]{style="font-weight: normal"}
 sono: a) per i pazienti: la maggior parte delle persone nella tua
 situazione vorrebbe la linea di condotta raccomandata, ma molti no; b)
@@ -474,6 +438,6 @@ preferenze; c) per i decisori politici: l'elaborazione delle politiche
 richiederà un dibattito approfondito e il coinvolgimento di molte parti
 interessate.
 
-[]{#ftn4}[4](#body_ftn4)Frat JP, Thille AW, Mercat A, et al. High-flow
+[4](#body_ftn4)Frat JP, Thille AW, Mercat A, et al. High-flow
 oxygen through nasal cannula in acute hypoxemic respiratory failure. N
 Engl J Med 2015; 372: 2185--2196.
