@@ -1,21 +1,19 @@
 
 
  
-
-[[[HFNC nell'insufficienza respiratoria acuta
-]{style="background: transparent"}]{style="font-style: normal"}]{style="font-variant: normal"}
+---
+# HFNC nell'insufficienza respiratoria acuta
 
 Considerazioni sulle possibili indicazioni all'utilizzo di HFNC
 nell'insufficienza respiratoria acuta dell'adulto, tratte da recenti
 linee guida di pratica clinica della European Society of Intensive Care
 Medicine (ESICM) e della European Respiratory Society (ERS).
 
-[[Dr. O.
-Sagliocco]{style="font-style: normal"}]{style="font-variant: normal"}
-
+Dr. O. Sagliocco
+---
  
 
-The role for high flow nasal cannula as a respiratory support strategy
+## The role for high flow nasal cannula as a respiratory support strategy
 
  in adults: a clinical practice guideline.
 
@@ -28,17 +26,17 @@ quattro raccomandazioni -- di cui una gradata "*strong
 recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
 pratica clinica:  
 
--   •una[ raccomandazione]{style="text-decoration: none"}
+-   una[ raccomandazione]{style="text-decoration: none"}
     [forte]{.underline} a favore di l\'**HFNC** nell\'**insufficienza
     respiratoria ipossiemica** (certezza moderata); 
 
--   •una raccomandazione [condizionale]{.underline} per l\'**HFNC dopo
+-   una raccomandazione [condizionale]{.underline} per l\'**HFNC dopo
     l\'estubazione** (certezza moderata); 
 
--   •nessuna raccomandazione riguardante l\'HFNC nel periodo
+-   nessuna raccomandazione riguardante l\'HFNC nel periodo
     peri-intubazione (certezza moderata): 
 
--   •una raccomandazione [condizionale]{.underline} per l\'**HFNC nel**
+-   una raccomandazione [condizionale]{.underline} per l\'**HFNC nel**
     **postoperatorio in pazienti ad alto rischio e/o obesi dopo
     chirurgia cardiaca o toracica** (certezza moderata). 
 
@@ -59,16 +57,14 @@ GRADE[2](#ftn1), in un contesto di discreta incertezza.
  
 
  
-
+---
 ERS clinical practice guidelines: high-flow nasal cannula in acute
 respiratory failure.
 
-[[**[Eur Respir J
-2022]{style="background: transparent"}**]{style="font-style: normal"}]{style="font-variant: normal"}[[[;
-59:
-2101574]{style="background: transparent"}]{style="font-style: normal"}]{style="font-variant: normal"}
+**[Eur Respir J 2022]
 
  
+---
 
 ### []{#a__Background}Background {#background .p36}
 
