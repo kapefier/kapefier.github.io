@@ -13,13 +13,13 @@ Medicine (ESICM) e della European Respiratory Society (ERS).
 ## The role for high flow nasal cannula as a respiratory support strategy in adults: a clinical practice guideline.
 ---
 
-<div style="text-align: right"> **Intensive Care Med** 46, 2226--2237 (**2020**) </div>
+<div style="text-align: right"> <b>Intensive Care Med</b> 46, 2226--2237 (<b>2020</b>) </div>
 ---
 
 Il panel di clinici e metodologi dell'ESICM fornisce quattro raccomandazioni -- di cui una gradata *"strong recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
 pratica clinica: 
 
--   una raccomandazione [forte]{.underline} a favore di l\'**HFNC** nell\'**insufficienza
+-   una raccomandazione <u>forte</u>a favore di l\'**HFNC** nell\'**insufficienza
     respiratoria ipossiemica** (certezza moderata);
 
 -   una raccomandazione [condizionale]{.underline} per l\'**HFNC dopo  l\'estubazione** (certezza moderata);
@@ -38,7 +38,7 @@ Le raccomandazioni sono state proposte in seguito ad una revisione sistematica d
 ## ERS clinical practice guidelines: high-flow nasal cannula in acute  respiratory failure.
 
 **Eur Respir J 2022**
-<div style="text-align: right"> **Eur Respir J 2022** </div>
+<div style="text-align: right"> <b>Eur Respir J 2022</b></div>
 
 ---
 
