@@ -8,12 +8,15 @@ linee guida di pratica clinica della European Society of Intensive Care
 Medicine (ESICM) e della European Respiratory Society (ERS).
 
 <div style="text-align: right"> Dr. O. Sagliocco </div>
+
 ---
 
 ## The role for high flow nasal cannula as a respiratory support strategy in adults: a clinical practice guideline.
+
 ---
 
 <div style="text-align: right"> <b>Intensive Care Med</b> 46, 2226--2237 (<b>2020</b>) </div>
+
 ---
 
 Il panel di clinici e metodologi dell'ESICM fornisce quattro raccomandazioni -- di cui una gradata *"strong recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
@@ -36,6 +39,7 @@ Le raccomandazioni sono state proposte in seguito ad una revisione sistematica d
 
 ---
 ## ERS clinical practice guidelines: high-flow nasal cannula in acute  respiratory failure.
+
 
 **Eur Respir J 2022**
 <div style="text-align: right"> <b>Eur Respir J 2022</b></div>
@@ -438,3 +442,5 @@ interessate.
 [4](#body_ftn4)Frat JP, Thille AW, Mercat A, et al. High-flow
 oxygen through nasal cannula in acute hypoxemic respiratory failure. N
 Engl J Med 2015; 372: 2185--2196.
+
+
