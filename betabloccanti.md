@@ -25,14 +25,21 @@ Tuttavia, mancano ancora un consenso e linee guida specifiche da parte delle soc
 ### 1 – Perchè correggere la tachicardia nel paziente critico?
 
 - Le cause di una tachicardia non compensatoria sono da ricondurre ad una disregolazione del sistema simpatico-adrenergico.
+  - L’ipertono adrenergico è uno dei principali protagonisti della complessa risposta neuro-endocrina che il paziente esibisce quando il trasporto di ossigeno (DO 2) e il suo VO2 perdono l’ottimale rapporto. Il perdurare di questo rapido meccanismo di compenso, anche
+qualora venissero trattate le cause che possono averlo innescato (e.g., anemia, ipovolemia, dolore, ipertermia), è in grado di favorire un’ipoperfusione secondaria a vasocostrizione e un’ inevitabile incremento del VO2 miocardico legato alla tachicardia.
+
 - Nel paziente critico la tachicardia non compensatoria andrebbe trattata.
+  - L l’eccessiva stimolazione adrenergica è correlata a danno d’organo
+con peggioramento dell’outcome e incremento della mortalità
 
 
 ### 2 – Quando preferire i β-bloccanti per correggere la tachicardia nel paziente critico?
 
 1. Tachicardia non compensatoria.
 
-2. Shock settico: l’impiego dei β-bloccanti per il trattamento della tachicardia persistente può essere considerato.
+
+2. Shock settico: l’impiego dei β-bloccanti per il trattamento della tachicardia persistente va considerato.
+- 
 
 3. Perioperatorio: controllo della frequenza e del consumo di ossigeno perioperatorio nei pazienti ad alto rischio dovrebbe essere raggiunto con l’utilizzo di farmaci beta-bloccanti.
 
@@ -49,36 +56,34 @@ Tuttavia, mancano ancora un consenso e linee guida specifiche da parte delle soc
 
 1. Prima di iniziare la terapia farmacologica devono essere riconosciute ed eventualmente trattate tutte le cause reversibili di Fibrillazione Atriale (FA):
 
-- alterazioni elettrolitiche 
+  - alterazioni elettrolitiche 
 
-- anomalie dell’equilibrio acido-base 
+  - anomalie dell’equilibrio acido-base 
 
-- impiego di farmaci beta-agonisti 
+  - impiego di farmaci beta-agonisti 
 
-- ischemia miocardica 
+  - ischemia miocardica 
 
-- ipovolemia 
+  - ipovolemia 
 
-- anemia 
+  - anemia 
 
-- infezione 
+  - infezione 
 
-- dolore 
+  - dolore 
 
-- agitazione. 
+  - agitazione. 
 
-4.2 FA → alterazione caotica del ritmo cardiaco a partenza sopraventricolare, che si identifica come parossistica quando termina spontaneamente o con un intervento entro sette giorni dall’insorgenza.
+2. Coinvolgimento di un’équipe multidisciplinare, soprattutto nella gestione della FA cronica e della ripresa della FA cronica.
 
-4.3 Coinvolgimento di un’équipe multidisciplinare.
+3. Il trattamento farmacologico della FA nel paziente critico è riservato al paziente con stabilità emodinamica ed asintomatico, nel quale dovrebbe essere ricercato il controllo della frequenza cardiaca come target primario.
 
-4.4 Il trattamento farmacologico della FA nel paziente critico è riservato al paziente con stabilità emodinamica ed asintomatico, nel quale dovrebbe essere ricercato il controllo della frequenza cardiaca come target primario.
+4. Nel paziente emodinamicamente instabile è raccomandata la cardioversione elettrica.
 
-4.5 Nel paziente emodinamicamente instabile è raccomandata la cardioversione elettrica.
+5. Rispetto alla funzione sistolica, l'associazione farmacologica raccomandato:
 
-4.6 Il controllo della frequenza cardiaca nel paziente critico con
+   - FA e FEVS normale o moderatamente depressa →  β-bloccanti e calcio antagonisti  
 
-•FA e FEVS normale o moderatamente depressa →  β-bloccanti e calcio antagonisti  
+   - FA e FEVS <40% dovrebbero essere utilizzati β-bloccanti e digossina. 
 
-•FA e FEVS <40% dovrebbero essere utilizzati β-bloccanti e digossina. 
-
-4.7 Quando è indicata la terapia farmacologica, il farmaco di prima scelta nel paziente critico dovrebbe essere un β-bloccante ad azione ed eliminazione rapida.
+6. Quando è indicata la terapia farmacologica, il farmaco di prima scelta nel paziente critico dovrebbe essere un β-bloccante ad azione ed eliminazione rapida.
