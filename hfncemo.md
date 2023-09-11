@@ -1,4 +1,4 @@
-<div style="text-align: justified">
+
 ---
 # HFNC nell'insufficienza respiratoria acuta
 
@@ -441,4 +441,3 @@ interessate.
 oxygen through nasal cannula in acute hypoxemic respiratory failure. N
 Engl J Med 2015; 372: 2185--2196.
 
-</div>
