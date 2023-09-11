@@ -1,4 +1,4 @@
-
+<div style="text-align: justified">
 ---
 # HFNC nell'insufficienza respiratoria acuta
 
@@ -440,3 +440,5 @@ interessate.
 [4](#body_ftn4)Frat JP, Thille AW, Mercat A, et al. High-flow
 oxygen through nasal cannula in acute hypoxemic respiratory failure. N
 Engl J Med 2015; 372: 2185--2196.
+
+</div>
