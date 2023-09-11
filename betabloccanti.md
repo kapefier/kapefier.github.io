@@ -25,22 +25,22 @@ Tuttavia, mancano ancora un consenso e linee guida specifiche da parte delle soc
 ### 1 – Perchè correggere la tachicardia nel paziente critico?
 
 - Le cause di una tachicardia non compensatoria sono da ricondurre ad una disregolazione del sistema simpatico-adrenergico.
-  - L’ipertono adrenergico è uno dei principali protagonisti della complessa risposta neuro-endocrina che il paziente esibisce quando il trasporto di ossigeno (DO 2) e il suo VO2 perdono l’ottimale rapporto. Il perdurare di questo rapido meccanismo di compenso, anche
-qualora venissero trattate le cause che possono averlo innescato (e.g., anemia, ipovolemia, dolore, ipertermia), è in grado di favorire un’ipoperfusione secondaria a vasocostrizione e un’ inevitabile incremento del VO2 miocardico legato alla tachicardia.
+  - L’ipertono adrenergico è uno dei principali protagonisti della complessa risposta neuro-endocrina che il paziente esibisce quando il trasporto di ossigeno (DO 2) e il suo VO2 perdono l’ottimale rapporto. Il perdurare di questo rapido meccanismo di compenso, anche qualora venissero trattate le cause che possono averlo innescato (e.g., anemia, ipovolemia, dolore, ipertermia), è in grado di favorire un’ipoperfusione secondaria a vasocostrizione e un’ inevitabile incremento del VO2 miocardico legato alla tachicardia.
 
 - Nel paziente critico la tachicardia non compensatoria andrebbe trattata.
-  - L l’eccessiva stimolazione adrenergica è correlata a danno d’organo
-con peggioramento dell’outcome e incremento della mortalità
+  - L’eccessiva stimolazione adrenergica è correlata a danno d’organo con peggioramento dell’outcome e incremento della mortalità
 
 
 ### 2 – Quando preferire i β-bloccanti per correggere la tachicardia nel paziente critico?
 
 1. Tachicardia non compensatoria.
+
  - Una recente meta-analisi condotta su 11 studi che comprendevano 2103 pazienti critici ha mostrato una significativa riduzione di mortalità (risk ratio 0,65, 95% CI 0,53–0,79; p < .0001) nei pazienti trattati con ß-bloccanti in confronto ai controlli([^1]).
 
 [^1]: Heliste M, Pettilä V, Berger D, Jakob SM, Wilkman E. Beta-blocker treatment in the critically ill: a systematic review and meta-analysis. Ann Med. 2022 Dec;54(1):1994-2010. doi: 10.1080/07853890.2022.2098376. PMID: 35838226; PMCID: PMC9291706.
 
 2. Shock settico: l’impiego dei β-bloccanti per il trattamento della tachicardia persistente va considerato.
+
  - La distinzione tra tachicardia compensatoria (indotta da un basso SV) e non compensatoria (generata da una eccessiva risposta simpatica) rappresenta quindi il principale elemento da identificare per selezionare i pazienti che possano trarre beneficio dalla terapia con beta-bloccanti.
  - Nonostante l’assenza di ß1-recettori sui vasi, l’infusione di β-bloccanti selettivi migliora l’iporesponsività al trattamento con vasopressori indotta dalla sepsi. Si ritiene che i β-bloccanti migliorino la responsività vascolare associata alla down-regulation dei recettori α1.
 
