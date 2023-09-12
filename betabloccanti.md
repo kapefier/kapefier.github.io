@@ -27,7 +27,7 @@ Vengono fronteggiate le seguenti questioni:
 ### 1 – Perchè correggere la tachicardia nel paziente critico?
 
 #### Le cause di una tachicardia non compensatoria sono da ricondurre ad una disregolazione del sistema simpatico-adrenergico.
-  L’ipertono adrenergico è uno dei principali protagonisti della complessa risposta neuro-endocrina che il paziente esibisce quando il trasporto di ossigeno (DO 2) e il suo VO2 perdono l’ottimale rapporto. Il perdurare di questo rapido meccanismo di compenso, anche qualora venissero trattate le cause che possono averlo innescato (e.g., anemia, ipovolemia, dolore, ipertermia), è in grado di favorire un’ipoperfusione secondaria a vasocostrizione e un’ inevitabile incremento del VO2 miocardico legato alla tachicardia.
+  L’ipertono adrenergico è uno dei principali protagonisti della complessa risposta neuro-endocrina che il paziente esibisce quando il trasporto di ossigeno (DO2) e il suo VO2 perdono l’ottimale rapporto. Il perdurare di questo rapido meccanismo di compenso, anche qualora venissero trattate le cause che possono averlo innescato (e.g., anemia, ipovolemia, dolore, ipertermia), è in grado di favorire un’ipoperfusione secondaria a vasocostrizione e un’ inevitabile incremento del VO2 miocardico legato alla tachicardia.
 
 #### Nel paziente critico la tachicardia non compensatoria andrebbe trattata.
   L’eccessiva stimolazione adrenergica è correlata a danno d’organo con peggioramento dell’outcome e incremento della mortalità
@@ -43,7 +43,7 @@ Una recente meta-analisi condotta su 11 studi che comprendevano 2103 pazienti cr
 #### 2. Shock settico.
 - Bisogna considerare l’impiego dei β-bloccanti per il trattamento della tachicardia persistente in corso di schock settico
 - La distinzione tra tachicardia compensatoria (indotta da un basso SV) e non compensatoria (generata da una eccessiva risposta simpatica) rappresenta quindi il principale elemento da identificare per selezionare i pazienti che possano trarre beneficio dalla terapia con beta-bloccanti.
-- Nonostante l’assenza di ß1-recettori sui vasi, l’infusione di β-bloccanti selettivi <b>migliora l’iporesponsività al trattamento con vasopressori</b> indotta dalla sepsi: si ritiene che i β-bloccanti migliorino la responsività vascolare associata alla down-regulation dei recettori α1 (→ up-regulation di recettori α1 ?).  Uno studio ha riscontrato un incremento del tono vascolare correlato alla <b>riduzione dell’elastance arteriosa</b> nei pazienti con shock settico trattati con esmololo. Questo incremento della reattività vascolare può spiegare perché l’uso di ß-bloccanti selettivi è associato con la riduzione di richiesta di vasopressori nonostante la riduzione del cardiac output([2]).
+- Nonostante l’assenza di ß1-recettori sui vasi, l’infusione di β-bloccanti selettivi <b>migliora l’iporesponsività al trattamento con vasopressori</b> indotta dalla sepsi: si ritiene che i β-bloccanti migliorino la responsività vascolare associata alla down-regulation dei recettori α1 (→ up-regulation di recettori α1 ?).  Uno studio ha riscontrato un incremento del tono vascolare correlato alla <b>riduzione dell’elastance arteriosa</b> nei pazienti con shock settico trattati con esmololo. Questo incremento della reattività vascolare può spiegare perché l’uso di ß-bloccanti selettivi è associato con la riduzione di richiesta di vasopressori nonostante la riduzione del cardiac output([^2]).
 
 [^2]: Morelli A, Singer M, Ranieri VM, D’Egidio A, Mascia L, Orecchioni A, Piscioneri F, Guarracino F, Greco E, Peruzzi M, Biondi-Zoccai G, Frati G, Romano
 SM. Heart rate reduction with esmolol is associated with improved arterial elastance in patients with septic shock: a prospective observational study. Intensive Care Med. 2016 Oct;42(10):1528-1534. doi: 10.1007/s00134-016-4351-2. Epub 2016 Apr 21. PMID: 27101380.
@@ -104,6 +104,7 @@ Razionale:
 
 [^4]: Balik M, Kolnikova I, Maly M, Waldauf P, Tavazzi G, Kristof J. Propafenone for supraventricular arrhythmias in septic shock-Comparison to amiodarone
 and metoprolol. J Crit Care. 2017 Oct;41:16-23. doi: 10.1016/j.jcrc.2017.04.027. Epub 2017 Apr 26. PMID: 28463737
+
 [^5]: Clemo HF, Wood MA, Gilligan DM, Ellenbogen KA. Intravenous amiodarone for acute heart rate control in the critically ill patient with atrial
 tachyarrhythmias. Am J Cardiol. 1998 Mar 1;81(5):594-8. doi: 10.1016/s0002-9149(97)00962-4. PMID: 951445
 
