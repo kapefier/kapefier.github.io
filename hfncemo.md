@@ -425,12 +425,9 @@ raggiungere una SpO2 compresa tra l'88% e il 92%.
 
 [^2]: Andrews J, Guyatt G, Oxman AD, et al. GRADE guidelines: 14. Going from evidence to recommendations: the significance and presentation of recommendations. J Clin Epidemiol 2013; 66: 719--725
 
-[^3]: Le implicazioni di una **raccomandazione condizionale**, secondo il sistema GRADE, sono: a) per i pazienti: la maggior parte delle persone nella tua situazione vorrebbe la linea di condotta raccomandata, ma molti no; b) per i medici: bisogna riconoscere che scelte diverse saranno appropriate per pazienti diversi e che è necessario aiutare ciascun paziente a
-giungere a una decisione gestionale coerente con i suoi valori e preferenze; c) per i decisori politici: l'elaborazione delle politiche richiederà un dibattito approfondito e il coinvolgimento di molte parti interessate.
+[^3]: Le implicazioni di una **raccomandazione condizionale**, secondo il sistema GRADE, sono: a) per i pazienti: la maggior parte delle persone nella tua situazione vorrebbe la linea di condotta raccomandata, ma molti no; b) per i medici: bisogna riconoscere che scelte diverse saranno appropriate per pazienti diversi e che è necessario aiutare ciascun paziente a giungere a una decisione gestionale coerente con i suoi valori e preferenze; c) per i decisori politici: l'elaborazione delle politiche richiederà un dibattito approfondito e il coinvolgimento di molte parti interessate.
 
-[^4]: Frat JP, Thille AW, Mercat A, et al. High-flow
-oxygen through nasal cannula in acute hypoxemic respiratory failure. N
-Engl J Med 2015; 372: 2185--2196.
+[^4]: Frat JP, Thille AW, Mercat A, et al. High-flow  oxygen through nasal cannula in acute hypoxemic respiratory failure. N Engl J Med 2015; 372: 2185--2196.
 
 
 
