@@ -1,15 +1,14 @@
 
-
+---
+# Appunti di Medicina Intensiva
 ---
 
-# Appunti di Terapia Intensiva
----
-
-O. S.
-
----
-
-* [HFNC nell'insufficienza respiratoria acuta](hfncemo.md)
+___
+O.S
 
 
+
+* [HFNC nell'inufficienza respiratoria acuta](hfncemo.md) 
 * [Beta-bloccanti nel paziente critico](betabloccanti.md)
+
+___
