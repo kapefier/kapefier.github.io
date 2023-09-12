@@ -102,11 +102,9 @@ Razionale:
 - β-bloccanti sono spesso agenti di prima linea per il controllo della frequenza specialmente in fase acuta come nelle forme parossistiche del paziente ricoverato in terapia intensiva. La scelta del farmaco dipende dai sintomi, dalle comorbidità e dai potenziali effetti collaterali.
 - Due studi([^4]) ([^5]) riportano una minore mortalità associata all’uso dei β-bloccanti rispetto all’amiodarone. I β-bloccanti e i calcio-antagonisti sono da preferire rispetto alla digossina per la maggiore rapidità di effetto e la maggiore efficacia anche in condizioni di ipertono del sistema nervoso simpatico.
 
-[^4]: Balik M, Kolnikova I, Maly M, Waldauf P, Tavazzi G, Kristof J. Propafenone for supraventricular arrhythmias in septic shock-Comparison to amiodarone
-and metoprolol. J Crit Care. 2017 Oct;41:16-23. doi: 10.1016/j.jcrc.2017.04.027. Epub 2017 Apr 26. PMID: 28463737
+[^4]: Balik M, Kolnikova I, Maly M, Waldauf P, Tavazzi G, Kristof J. Propafenone for supraventricular arrhythmias in septic shock-Comparison to amiodarone and metoprolol. J Crit Care. 2017 Oct;41:16-23. doi: 10.1016/j.jcrc.2017.04.027. Epub 2017 Apr 26. PMID: 28463737
 
-[^5]: Clemo HF, Wood MA, Gilligan DM, Ellenbogen KA. Intravenous amiodarone for acute heart rate control in the critically ill patient with atrial
-tachyarrhythmias. Am J Cardiol. 1998 Mar 1;81(5):594-8. doi: 10.1016/s0002-9149(97)00962-4. PMID: 951445
+[^5]: Clemo HF, Wood MA, Gilligan DM, Ellenbogen KA. Intravenous amiodarone for acute heart rate control in the critically ill patient with atrial tachyarrhythmias. Am J Cardiol. 1998 Mar 1;81(5):594-8. doi: 10.1016/s0002-9149(97)00962-4. PMID: 951445
 
 
 #### 6. Quando è indicata la terapia farmacologica, il farmaco di prima scelta nel paziente critico dovrebbe essere un β-bloccante ad azione ed eliminazione rapida.
