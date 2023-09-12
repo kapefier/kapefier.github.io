@@ -2,10 +2,10 @@
 
 ---
 
-# Linee Guida per una Terapia Intensiva
+# Appunti di Terapia Intensiva
 ---
 
-Orlando Sagliocco
+O. S.
 
 ---
 
