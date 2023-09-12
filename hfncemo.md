@@ -25,11 +25,11 @@ pratica clinica:
 -   una raccomandazione **forte**a favore di l'**HFNC** nell'**insufficienza
     respiratoria ipossiemica** (certezza moderata);
 
--   una raccomandazione __condizionale__ per l'**HFNC dopo  l'estubazione** (certezza moderata);
+-   una raccomandazione <u>condizionale</u> per l'**HFNC dopo  l'estubazione** (certezza moderata);
 
 -   nessuna raccomandazione riguardante l'HFNC nel periodo peri-intubazione (certezza moderata):
 
--   una raccomandazione __condizionale__ per l'**HFNC nel**  **postoperatorio in pazienti ad alto rischio e/o obesi dopo chirurgia cardiaca o toracica** (certezza moderata).
+-   una raccomandazione <u>condizionale</u> per l'**HFNC nel**  **postoperatorio in pazienti ad alto rischio e/o obesi dopo chirurgia cardiaca o toracica** (certezza moderata).
 
 
 
@@ -70,7 +70,7 @@ sicuro.
 
 ### Raccomandazioni
 
-Viene __suggerito__ l'uso di:
+Viene <u>suggerito</u>l'uso di:
 
 1\) **HFNC** rispetto a COT nell\'**ARF ipossiemica**;
 
@@ -194,7 +194,7 @@ supportino l'uso dell'HFNC rispetto alla NIV come trattamento di prima
 linea per l'AHRF, ma questa **evidenza è limitata** da imprecisione
 della stima e vi è ancora **incertezza**
 sul vero effetto della NIV. In particolare, lo studio di FRAT et
-al.[4](#ftn4) ha dimostrato il maggior beneficio dell'HFNC, ma la NIV
+al.[^4] ha dimostrato il maggior beneficio dell'HFNC, ma la NIV
 aveva un tempo di utilizzo breve (8 h giorno-1) e livelli di PEEP più
 bassi rispetto a quelli comunemente prescritti (specialmente con
 l'interfaccia del casco) ed era possibile che nessuna umidificazione
@@ -417,29 +417,20 @@ tolleranza dei pazienti. La temperatura er impostata a 34°C o 37°C in
 base alle preferenze del paziente, mentre la FiO2 era regolata per
 raggiungere una SpO2 compresa tra l'88% e il 92%.
 
+
+---
+---
  
-[^1]: Una raccomandazione forte è quella per la quale
-il panel è fiducioso che gli effetti desiderabili dell'adesione ad una
-raccomandazione superino gli effetti indesiderati. Ciò può essere sia a
-favore che contro un intervento.
+[^1]: Una raccomandazione forte è quella per la quale il panel è fiducioso che gli effetti desiderabili dell'adesione ad una raccomandazione superino gli effetti indesiderati. Ciò può essere sia a favore che contro un intervento.
 
-[^2]: Andrews J, Guyatt G, Oxman AD, et al. GRADE
-guidelines: 14. Going from evidence to recommendations: the significance
-and presentation of recommendations. J Clin Epidemiol 2013; 66: 719--725
+[^2]: Andrews J, Guyatt G, Oxman AD, et al. GRADE guidelines: 14. Going from evidence to recommendations: the significance and presentation of recommendations. J Clin Epidemiol 2013; 66: 719--725
 
-[^3]: Le implicazioni di una **raccomandazione
-condizionale**[, secondo il sistema GRADE,]{style="font-weight: normal"}
-sono: a) per i pazienti: la maggior parte delle persone nella tua
-situazione vorrebbe la linea di condotta raccomandata, ma molti no; b)
-per i medici: bisogna riconoscere che scelte diverse saranno appropriate
-per pazienti diversi e che è necessario aiutare ciascun paziente a
-giungere a una decisione gestionale coerente con i suoi valori e
-preferenze; c) per i decisori politici: l'elaborazione delle politiche
-richiederà un dibattito approfondito e il coinvolgimento di molte parti
-interessate.
+[^3]: Le implicazioni di una **raccomandazione condizionale**, secondo il sistema GRADE, sono: a) per i pazienti: la maggior parte delle persone nella tua situazione vorrebbe la linea di condotta raccomandata, ma molti no; b) per i medici: bisogna riconoscere che scelte diverse saranno appropriate per pazienti diversi e che è necessario aiutare ciascun paziente a
+giungere a una decisione gestionale coerente con i suoi valori e preferenze; c) per i decisori politici: l'elaborazione delle politiche richiederà un dibattito approfondito e il coinvolgimento di molte parti interessate.
 
 [^4]: Frat JP, Thille AW, Mercat A, et al. High-flow
 oxygen through nasal cannula in acute hypoxemic respiratory failure. N
 Engl J Med 2015; 372: 2185--2196.
+
 
 
