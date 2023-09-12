@@ -3,8 +3,8 @@
 # Appunti di Medicina Intensiva
 ---
 
-___
-O.S
+
+O.S.
 
 
 
