@@ -19,23 +19,23 @@ Medicine (ESICM) e della European Respiratory Society (ERS).
 
 ---
 
-Il panel di clinici e metodologi dell'ESICM fornisce quattro raccomandazioni -- di cui una gradata *"strong recommendation"*[1](#ftn2) -- per guidare l\'uso dell\'HFNC nella
+Il panel di clinici e metodologi dell'ESICM fornisce quattro raccomandazioni -- di cui una gradata *"strong recommendation"*[^1] -- per guidare l'uso dell'HFNC nella
 pratica clinica: 
 
--   una raccomandazione <u>forte</u>a favore di l\'**HFNC** nell\'**insufficienza
+-   una raccomandazione **forte**a favore di l'**HFNC** nell'**insufficienza
     respiratoria ipossiemica** (certezza moderata);
 
--   una raccomandazione [condizionale]{.underline} per l\'**HFNC dopo  l\'estubazione** (certezza moderata);
+-   una raccomandazione __condizionale__ per l'**HFNC dopo  l'estubazione** (certezza moderata);
 
--   nessuna raccomandazione riguardante l\'HFNC nel periodo peri-intubazione (certezza moderata):
+-   nessuna raccomandazione riguardante l'HFNC nel periodo peri-intubazione (certezza moderata):
 
--   una raccomandazione [condizionale]{.underline} per l\'**HFNC nel**  **postoperatorio in pazienti ad alto rischio e/o obesi dopo chirurgia cardiaca o toracica** (certezza moderata).
+-   una raccomandazione __condizionale__ per l'**HFNC nel**  **postoperatorio in pazienti ad alto rischio e/o obesi dopo chirurgia cardiaca o toracica** (certezza moderata).
 
 
 
 ![](hfnc6_html_2ff85d6400f52915.jpg)
 
-Le raccomandazioni sono state proposte in seguito ad una revisione sistematica della letteratura, alla valutazione del rischio di bias dei singoli studi randomizzati e alla valutazione della certezza dell\'evidenza per ciascun risultato con l'utilizzo della metodologia GRADE[2](#ftn1), in un contesto di discreta incertezza.
+Le raccomandazioni sono state proposte in seguito ad una revisione sistematica della letteratura, alla valutazione del rischio di bias dei singoli studi randomizzati e alla valutazione della certezza dell\'evidenza per ciascun risultato con l'utilizzo della metodologia GRADE[^2], in un contesto di discreta incertezza.
 
 ---
 
@@ -50,7 +50,7 @@ Le raccomandazioni sono state proposte in seguito ad una revisione sistematica d
 
 La cannula nasale ad alto flusso (HFNC) è diventata una forma non
 invasiva di supporto respiratorio frequentemente utilizzata in contesti
-acuti; tuttavia, le p*rove* a sostegno del suo utilizzo sono emerse solo
+acuti; tuttavia, le **prove** a sostegno del suo utilizzo sono emerse solo
 di recente.
 
 Vengono fornite raccomandazioni basate sull'evidenza per
@@ -61,7 +61,7 @@ respiratoria acuta (*ARF* -- acute respiratory failure). Purtroppo, a
 causa di limiti nella certezza delle prove e della differenza nelle
 risorse disponibili, tutte le raccomandazioni sono deboli
 ("*weak/conditional"*). La task force ha sviluppato otto
-*raccomandazioni condizionali[3](#ftn3),* in
+*raccomandazioni condizionali[^3],* in
 cuiil panel conclude che gli effetti desiderabili dell\'adesione a una
 raccomandazione
 **probabilmente** superano gli effetti indesiderati, ma
@@ -70,7 +70,7 @@ sicuro.
 
 ### Raccomandazioni
 
-Viene [suggerito]{.underline} l\'uso di:
+Viene __suggerito__ l'uso di:
 
 1\) **HFNC** rispetto a COT nell\'**ARF ipossiemica**;
 
@@ -78,8 +78,7 @@ Viene [suggerito]{.underline} l\'uso di:
 
 3\) **HFNC** rispetto a COT durante le **pause dalla NIV**;
 
-4\) HFNC o COT in pazienti [postoperatori]{style="font-weight: normal"} a
-basso rischio di complicanze polmonari;
+4\) HFNC o COT in pazienti postoperatori a basso rischio di complicanze polmonari;
 
 5\) HFNC o NIV in pazienti postoperatori ad alto rischio di complicanze
 polmonari;
@@ -88,7 +87,7 @@ polmonari;
 di fallimento dell\'estubazione**;
 
 7\) **NIV** su HFNC per pazienti ad [[**alto rischio di fallimento
-dell\'estubazione**]{style="font-style: normal"}]{style="font-variant: normal"}
+dell\'estubazione**
 a meno che non vi siano controindicazioni relative o assolute alla NIV;
 
 8\) sperimentare la **NIV** prima dell\'uso dell\'HFNC in pazienti con
@@ -322,7 +321,7 @@ considerazioni sul singolo paziente, sulla chirurgia e sulle risorse.
 Un\'analisi di sottogruppi di questo studio ha dimostrato effetti simili
 nei soggetti obesi.
 
-HFNC per prevenire il fallimento dell\'estubazione nei pazienti non
+HFNC per prevenire il fallimento dell'estubazione nei pazienti non
 chirurgici
 
 ##### 6 - Suggeriamo HFNC rispetto a COT nei pazienti non chirurgici dopo estubazione a rischio basso o moderato di fallimento dell' estubazione evidenza bassa).
@@ -345,19 +344,19 @@ terapia intensiva dopo l'estubazione.
 La HFNC, rispetto alla COT, probabilmente riduce il tasso di
 reintubazione e la necessità di passare alla NIV (moderata certezza) per
 i pazienti in terapia intensiva a rischio di insufficienza respiratoria
-dopo l\'estubazione. Probabilmente non vi è alcun effetto sulla
+dopo l'estubazione. Probabilmente non vi è alcun effetto sulla
 mortalità. La durata della degenza in terapia intensiva è simile per
-HFNC e COT. L\'HFNC è associato a un leggero miglioramento del comfort e
+HFNC e COT. L'HFNC è associato a un leggero miglioramento del comfort e
 alla riduzione della frequenza respiratoria. Lo scambio di gas non è
 significativamente diverso tra HFNC o COT.
 
-L\'HFNC dopo l\'estubazione nei pazienti non chirurgici **può ridurre il
-tasso di reintubazione e l\'escalation alla NIV senza importanti effetti
+L'HFNC dopo l'estubazione nei pazienti non chirurgici **può ridurre il
+tasso di reintubazione e l'escalation alla NIV senza importanti effetti
 collaterali indesiderati**. Un'analisi costo-efficacia condotta nel
 Regno Unito ha suggerito che l'HFNC è probabilmente economicamente
 vantaggioso anche nei pazienti a basso rischio di reintubazione.
 
-##### 7 - Suggeriamo l\'uso della NIV rispetto alla HFNC dopo l\'estubazione per i pazienti ad alto rischio di fallimento dell\'estubazione a meno che esistano controindicazioni relative o assolute alla NIV (evidenza moderata).
+##### 7 - Suggeriamo l'uso della NIV rispetto alla HFNC dopo l\'estubazione per i pazienti ad alto rischio di fallimento dell'estubazione a meno che esistano controindicazioni relative o assolute alla NIV (evidenza moderata).
 
 I pazienti ad alto rischio sono quelli che possono sviluppare ipercapnia
 durante lo **spontanous breathing trial**, quelli con **disturbi
@@ -384,13 +383,13 @@ Nei pazienti intolleranti o che presentano controindicazioni alla NIV,
 l'HFNC può rappresentare un'alternativa alla NIV per prevenire
 l'insufficienza respiratoria post-estubazione. La NIV intervallata da
 HFNC tra le sessioni NIV è una strategia che può essere efficace per
-migliorare ulteriormente l\'ossigenazione e ridurre l\'insufficienza
+migliorare ulteriormente l'ossigenazione e ridurre l'insufficienza
 respiratoria post-estubazione ottenendo i benefici della NIV, con un
-maggiore comfort dell\'HFNC.
+maggiore comfort dell'HFNC.
 
-#### HFNC nell\'insufficienza respiratoria ipercapnica
+#### HFNC nell'insufficienza respiratoria ipercapnica
 
-##### 8 - Suggeriamo un trial di NIV prima dell\'uso di HFNC in pazienti con BPCO e insufficienza respiratoria acuta ipercapnica (evidenza bassa).
+##### 8 - Suggeriamo un trial di NIV prima dell'uso di HFNC in pazienti con BPCO e insufficienza respiratoria acuta ipercapnica (evidenza bassa).
 
 Nel complesso, l'evidenza di mortalità e intubazione è di bassa
 certezza, principalmente a causa di imprecisione della stima, che non
@@ -401,10 +400,10 @@ dell'evidenza per l'uso della NIV nella BPCO, e considerando che
 sarebbero necessarie ulteriori prove prima che la HFNC possa essere
 considerata equivalente o superiore alla NIV.
 
-Sebbene la NIV abbia un\'elevata evidenza per l'insufficienza
+Sebbene la NIV abbia un'elevata evidenza per l'insufficienza
 respiratoria acidotica ipercapnica, non è tollerata da alcuni pazienti,
-che potrebbero preferire l\'HFNC, essendo più confortevole e consentendo
-una comunicazione, un\'alimentazione e un\'igiene orale più facili. Un
+che potrebbero preferire l'HFNC, essendo più confortevole e consentendo
+una comunicazione, un'alimentazione e un'igiene orale più facili. Un
 trial di NIV consente ai medici di determinare la gravità
 dell'insufficienza respiratoria, la risposta al trattamento e se un
 paziente può passare alla HFNC. La HFNC dovrebbe essere preferita alla
@@ -415,20 +414,20 @@ diaframma e migliora il comfort, senza influenzare lo scambio gassoso.
 N.B. Le impostazioni HFNC erano eterogenee. Il flusso era impostato in
 un intervallo compreso tra 35 e 60 L·min−1 e titolato in base alla
 tolleranza dei pazienti. La temperatura er impostata a 34°C o 37°C in
-base alle preferenze del paziente, mentre la FiO2 era  regolata per
-raggiungere una SpO2 compresa tra l\'88% e il 92%.
+base alle preferenze del paziente, mentre la FiO2 era regolata per
+raggiungere una SpO2 compresa tra l'88% e il 92%.
 
  
-[1](#body_ftn2)Una raccomandazione forte è quella per la quale
+[^1]: Una raccomandazione forte è quella per la quale
 il panel è fiducioso che gli effetti desiderabili dell'adesione ad una
 raccomandazione superino gli effetti indesiderati. Ciò può essere sia a
 favore che contro un intervento.
 
-[2](#body_ftn1)Andrews J, Guyatt G, Oxman AD, et al. GRADE
+[^2]: Andrews J, Guyatt G, Oxman AD, et al. GRADE
 guidelines: 14. Going from evidence to recommendations: the significance
 and presentation of recommendations. J Clin Epidemiol 2013; 66: 719--725
 
-[3](#body_ftn3)Le implicazioni di una **raccomandazione
+[^3]: Le implicazioni di una **raccomandazione
 condizionale**[, secondo il sistema GRADE,]{style="font-weight: normal"}
 sono: a) per i pazienti: la maggior parte delle persone nella tua
 situazione vorrebbe la linea di condotta raccomandata, ma molti no; b)
@@ -439,7 +438,7 @@ preferenze; c) per i decisori politici: l'elaborazione delle politiche
 richiederà un dibattito approfondito e il coinvolgimento di molte parti
 interessate.
 
-[4](#body_ftn4)Frat JP, Thille AW, Mercat A, et al. High-flow
+[^4]: Frat JP, Thille AW, Mercat A, et al. High-flow
 oxygen through nasal cannula in acute hypoxemic respiratory failure. N
 Engl J Med 2015; 372: 2185--2196.
 
