@@ -1,0 +1,606 @@
+[
+  {
+    "CASE_GUID": "A-IT147-94cdae5a-9985-4247-a065-320175cac20d",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-a91a0663-23c4-4c2c-9e8e-7ae9fcccf58b",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-a3d87366-afb8-4fd4-959c-725bfcb78597",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-afc2a510-af8b-4ee5-9607-4bd6f2439dab",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-65d196bc-5120-49e6-917d-3244a41c77cc",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-f71b0ca6-bf96-41b1-a946-7e32c6c9bbdb",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-7b94a220-63dd-4839-9235-bad888c500ab",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e454dcbc-e76e-4ef2-b404-0417334e5caa",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-9720aa91-f6d2-42f9-b510-ad97b87c2342",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-c266edea-3fb7-49da-8570-fae2406f9c2b",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-a1c8ee6b-4520-4d04-85f2-d4d78e7f28e6",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-59b4218b-e1e2-43ab-9db5-1b79fe43a735",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-2749039e-f401-42e1-8d55-6e08f2400642",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-90b779ec-181e-4d2e-ad2f-043662dcb11b",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-e610a250-6ce2-4eb9-a2df-a09bff4d7d47",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-5965bd33-b681-4fe0-ae5e-358b62496e0a",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-486c1926-4777-4e3d-a9b6-b576ad6bdc59",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e2801e16-52c2-4681-be6e-dae585b6d96e",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-16df8947-0ee0-4d93-a23c-7ae5db9bdc15",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-72447a80-27d5-4928-9a67-df8a97561434",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-c0e39668-a7e9-4be6-852b-ffa65e5798fb",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-3d47e14f-6069-4295-830c-4161e3087c51",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e35d3fb2-9820-49bf-934b-62a44fe8c829",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-d983cda1-e6d6-4914-a98b-11dfce2dcd74",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-9767f058-145e-4d31-b74b-8fc63a858985",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-4aed04e4-4ec0-4519-a40e-e30cea14b7c6",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-af60794d-0574-4ca6-9cc0-fb94a305150d",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-961b86a0-78dd-4dc5-a352-bcc4b6c3d847",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-3e73bdde-a024-4e40-809b-16d94d4ef8d5",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-f768167f-4715-44af-af74-0eadb783eefe",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-1e9f3a3b-572d-44e1-97f6-17f670346793",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-da821db1-3ce5-466f-a5d6-6d68580bda0c",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-cfb1f754-de65-40f3-980e-7c745085f401",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e2fe8fdf-65c3-47bc-805f-da2e63642f03",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-773e42fc-3779-4994-8170-27505fe0b8e2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-0e17d953-8956-4689-8d36-a8f0dfbc1b9a",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-dc84c75c-6cfb-4595-8dbe-2b920e2ebb7a",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-d8871929-2606-4fc3-bf19-321cd2f41f3c",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-ef52640a-e069-45c2-a695-083d9a4c5492",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-12822ca7-33c4-45fa-9093-d1e5659c4ad2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-cfd627bf-ed98-4fef-a07b-694fcfd666f2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-15a71e43-c208-41b4-afba-460820181389",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-993a6e0c-c0c4-4bf6-97d0-c4e9ec113ee1",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-663e832c-9205-4deb-9d43-7d190d105b7e",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-6a5301a6-a7ce-472d-8d30-56303d8e25a5",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-8d52739a-5416-4bcf-8807-d2902302acf4",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-7297c7a2-c952-4e8f-8c63-48731f8fca25",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-c5ba085e-a1ea-4611-b760-86adbfc9d0cf",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-aaf7051a-a6bf-4dc2-9a92-8f2980feb40e",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-6e6c9261-10c0-44e5-a742-1ea1e013b454",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-cfed375b-a059-49c5-9fc7-25b1cdeadc90",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-fd2a5e77-b2f3-4d03-83db-139d1cbeb065",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-c09cfcd1-c731-4986-9667-6a02b6a5a4f6",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-dd2d10d7-e79a-4b0f-bc23-750f616c8fa4",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-198e5503-c114-43bd-9cf8-2d455dd7d14e",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-1f3a5288-3221-4dce-b4c5-1627cea2f34a",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e09c5405-02bc-4a7a-80dd-b43312aaacee",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-97aff07c-8094-4959-944a-7c69bf27bc96",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b9cf0e5a-5467-4417-b0cf-b06a47a2867c",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-6d323e21-778b-46d1-9d76-305e275dfdf2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-a854caac-aff8-42f6-be6e-715654b1a62d",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b75a5fdf-7eb7-4c69-93b4-a06f22b63a7f",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e95aadd1-75a1-4b81-8dca-25c0e93c16b2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b701dabd-3793-45db-944c-27d1cd54abf8",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-2707c088-49ba-46b6-8f99-ce4f6e14c5ca",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-ff32470b-b735-4526-8330-0ab6e6d3434d",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-43c9f06b-7df1-44f5-b7b0-79c47d07be08",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-ba77627a-2927-490e-a1f8-78a870597e78",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-9436fb20-8c83-4e6e-8ddc-3bd529d1a508",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-cbf57b6c-9411-4e67-b81e-aed5b1b93c3c",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-6e5f25ee-ff36-4e3b-97ba-374f070663d4",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-042b9b6d-2302-4b37-931f-b1f0cfacc3c1",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b4ba2782-76a0-49a0-849a-68165a8a4588",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-5f4e04dd-c678-43a5-ba34-f2c3ebd8008c",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-bca5d9f5-055d-4e00-830e-94aeccb36b13",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-cabc8147-ae22-4ffe-a43a-226e50f2f790",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-bd490661-68bc-44ac-bedb-2de76aa31cab",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-408fe36f-5170-46cb-9097-74c3171f048f",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-d9a2a47f-950c-49ae-bffe-ae9aacf0f687",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-8a72fe1c-384b-4095-be92-2d9bdd078457",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-19223a75-1c50-41ab-94ab-8b3fdcb7866c",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-ef5bb87a-f7a5-4c9e-ad7c-7d20463e154d",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-12dfd7e4-e21c-4736-aa1c-ebf67358b837",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-8d07f8dd-a6e7-48cd-a1d3-33db5ec281d5",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-a5c25a2b-1ce9-45af-9220-92ab125d04f9",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-6dac03eb-9252-43de-823a-482dfc1310e0",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-7924b956-5ae8-4673-9b30-b26384efce5d",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-885acb69-96ce-4722-acde-9bc0a0644391",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-3734e1ba-b245-4ea0-ab85-e57b6f64ca53",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-706ff925-9e8d-4aa4-a806-0e4b696725da",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-9ea737a4-86a4-449f-86ef-78360b921359",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-4b224110-5201-42ba-8dbc-c6e3c567b53b",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-77e4ba2d-4930-4716-9d82-88a4ac509a14",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-f4eb6cd3-928d-42f4-bdc8-6b0d012ca4cb",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-74617345-6d9d-4dfa-b7d7-5787da5387d2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-17ea81ac-260c-4c71-a927-872d70bae110",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-84e31358-d7e2-4749-aa2e-151304135999",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-e1e2d89c-c02c-4284-b759-8f0ad340ff81",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-104cb0a6-a3b4-4d69-b79b-86a256658fc5",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-d6c981c8-7ca5-4078-8114-e6acb3a46335",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-f80eaade-67fd-4dd2-ad5c-5bb142c776d5",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-f0f3a48c-c0ef-4b26-a25e-49f33b71527e",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-cc1d6aa3-dec6-4ae6-95d5-44bcd361fc2a",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e03767dd-3d80-4aa5-b598-0a30001613e2",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-21f058e0-7188-42d2-b5b6-1d5068f94214",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b3c278d3-c9bc-4a66-be16-94b8b0a49969",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b43059e6-77c9-47c2-8f14-600aacc46393",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-d740fd57-4015-4990-976e-8990e06b3e32",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-86a1a546-742a-4bf7-a640-104de5a85e0e",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-b3610fdf-3f16-40ab-ae88-f8cf2741d5c9",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-7f49fb6f-1849-4952-9536-45fecf00bec6",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-e85b39a7-2f37-4033-a95d-febfe0ec49a9",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-a05637f0-89d1-4dac-b191-4897df0cc9d8",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-5b2741c8-5805-4e21-a83f-9b437acdfad9",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-05aeaa94-2d0e-4bc7-9d28-7351d1e6cf24",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-f77fe4b7-ab5a-4cd0-8d76-00ebbec30b1a",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-d22feb19-d7f6-41e1-954d-04d958a7952b",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-ad14540a-1b0d-46c1-9c17-341a66eca0cf",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-28d2bd6e-d4cc-4427-97e4-c44042ed72bb",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-985f5872-49d1-4660-a3b0-7bfc0d68ee17",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-32360fa3-ca76-404d-97e7-7d2b9f58d4a7",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-af1c1d97-6951-46a6-8732-3a75057f83b7",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-48148f6a-b3a8-48fb-916c-5439dd420531",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-5f4e6a4e-4f0b-4744-9d83-54de21996a22",
+    "status": 0
+  },
+  {
+    "CASE_GUID": "A-IT147-2017dc4a-140b-4e6a-b575-995cbf867ede",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-df185512-03e0-4a57-9723-9a48c75c6f8a",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-bf1020ee-7b82-41ec-96ee-4e38e144f484",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-79225cd0-f814-48b6-afd9-600c7f0b25f8",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-88292ffb-36d8-4b89-9b99-1ede68f7a59f",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-b9057f81-4d36-4972-bd8c-a1d462d26cf0",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-256a99d4-d96b-43ce-b66b-9eb6ac6925fd",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-74d156ad-681b-463e-8d94-b917f8059a51",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-a1276866-dc12-4094-89be-d8dc4e2674da",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-d9a9206b-fc4f-40c9-993b-7b4179c99040",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-45345648-e297-4bcf-bf02-4c20785b5834",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-79893dcf-87a6-432b-913e-c27eed8096ee",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-3112b6e2-9358-4541-ba77-25220b8b2b0f",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-69366177-6744-46e7-bf8d-1408f027b40c",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-cc140ccc-305d-46a4-82f0-19a93aada0a7",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-389b5010-336c-455b-9898-862ee23a8c95",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-eea4681c-fca6-43c8-a0c1-58696db5c5b5",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-e75fcbe0-6337-4cbf-bbba-21a6492d8ca8",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-1e5c4723-cb65-466a-9ce1-b698a6a03f27",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-fcf6a10d-c6b3-4471-a982-818119aed3d5",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-80b60215-de10-4ee4-9df4-b920aec1896b",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-b0bc7301-de7d-47f4-ae36-e5d7d183bf42",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-c307ce7b-5bfb-4b1e-a50f-a41b3e3e21ce",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-4c5933d0-a8a8-472e-8db4-62b0fcd43565",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-6fe7bcca-fe73-4964-a443-5b153acd9816",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-73b1e2c1-0142-48b3-b802-3d5378e3d822",
+    "status": 4
+  },
+  {
+    "CASE_GUID": "A-IT147-b1ac9aa0-dc43-461d-9af9-8b8b0f8275f8",
+    "status": 4
+  }
+]
